@@ -4,13 +4,13 @@
 
 - 👨‍💻 Visit my site at: [https://www.chanakap.com](https://www.chanakap.com)
 
-- 📝 I regularly write articles on [https://medium.com/@chanakap845](https://medium.com/@chanakap845)
+- 📝 I regularly write articles on: [https://medium.com/@chanakap845](https://medium.com/@chanakap845)
 
 - 📫 How to reach me: **chanakaperera301@gmail.com**
 
 - 📄 My resume: [Google docs link](https://docs.google.com/document/d/1Fq7Q72Tay-nIylUo3X1fKvr8Ul8taeuJUUZtXHU6M4o/edit)
 
-- ⚡ Fun fact **I went on a hike once. Once I reached the top I learnt it was not for me.**
+- ⚡ Fun fact: **I went on a hike once. Once I reached the top I learnt it was not for me.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
