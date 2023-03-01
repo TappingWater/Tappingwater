@@ -1,17 +1,14 @@
 <h1 align="center">Hi 👋, I'm Chanaka Perera</h1>
 <h3 align="center">A full stack developer interested in Natural Language Processing, Cloud Development and UI//UX design</h3>
+<img align="right" width="400" alt="coding" src="https://drive.google.com/file/d/1a9zszrjgNRf_N9ba1i2L3Ny-K3bCisnH/view?usp=share_link" />
 
-- 🌱 I’m currently learning **AWS, Scrapy, NumPy, SciKit Learn**
-
-- 👨‍💻 All of my projects are available at [https://www.chanakap.com](https://www.chanakap.com)
+- 👨‍💻 Visit my site at: [https://www.chanakap.com](https://www.chanakap.com)
 
 - 📝 I regularly write articles on [https://medium.com/@chanakap845](https://medium.com/@chanakap845)
 
-- 💬 Ask me about **React, NextJs, SpringBoot, Akka**
+- 📫 How to reach me: **chanakaperera301@gmail.com**
 
-- 📫 How to reach me **chanakaperera301@gmail.com**
-
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Fq7Q72Tay-nIylUo3X1fKvr8Ul8taeuJUUZtXHU6M4o/edit](https://docs.google.com/document/d/1Fq7Q72Tay-nIylUo3X1fKvr8Ul8taeuJUUZtXHU6M4o/edit)
+- 📄 My resume: [https://docs.google.com/document/d/1Fq7Q72Tay-nIylUo3X1fKvr8Ul8taeuJUUZtXHU6M4o/edit](https://docs.google.com/document/d/1Fq7Q72Tay-nIylUo3X1fKvr8Ul8taeuJUUZtXHU6M4o/edit)
 
 - ⚡ Fun fact **I went on a hike once. Once I reached the top I learnt it was not for me.**
 
