@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanaka Perera</h1>
 <h3 align="center">A full stack developer interested in Natural Language Processing, Cloud Development and UI//UX design</h3>
-<img align="right" width="400" alt="coding" src="https://drive.google.com/file/d/1a9zszrjgNRf_N9ba1i2L3Ny-K3bCisnH/view?usp=share_link" />
+<img align="right" width="400" alt="coding" src="https://media.tenor.com/10OKiBL__N4AAAAi/capoo-bug-cat.gif" />
 
 - 👨‍💻 Visit my site at: [https://www.chanakap.com](https://www.chanakap.com)
 
